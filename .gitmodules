@@ -1,0 +1,3 @@
+[submodule "gimp-pro"]
+	path = gimp-pro
+	url = https://github.com/ashiskumarnaik/gimp-pro
